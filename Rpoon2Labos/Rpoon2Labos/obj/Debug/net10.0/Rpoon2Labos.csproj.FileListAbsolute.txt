@@ -1,0 +1,14 @@
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\bin\Debug\net10.0\Rpoon2Labos.exe
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\bin\Debug\net10.0\Rpoon2Labos.deps.json
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\bin\Debug\net10.0\Rpoon2Labos.runtimeconfig.json
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\bin\Debug\net10.0\Rpoon2Labos.dll
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\bin\Debug\net10.0\Rpoon2Labos.pdb
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\obj\Debug\net10.0\Rpoon2Labos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\obj\Debug\net10.0\Rpoon2Labos.AssemblyInfoInputs.cache
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\obj\Debug\net10.0\Rpoon2Labos.AssemblyInfo.cs
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\obj\Debug\net10.0\Rpoon2Labos.csproj.CoreCompileInputs.cache
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\obj\Debug\net10.0\Rpoon2Labos.dll
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\obj\Debug\net10.0\refint\Rpoon2Labos.dll
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\obj\Debug\net10.0\Rpoon2Labos.pdb
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\obj\Debug\net10.0\Rpoon2Labos.genruntimeconfig.cache
+C:\Users\vilim\Desktop\vjezba za objetno\Rpoon2Labos\Rpoon2Labos\obj\Debug\net10.0\ref\Rpoon2Labos.dll
